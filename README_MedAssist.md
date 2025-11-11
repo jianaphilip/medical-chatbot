@@ -94,25 +94,4 @@ Visit **http://localhost:3000**
 
 ---
 
-## 📸 Screenshots
-Insert here:
-1. Chat interface (text & voice input)
-2. Backend console logs
-3. Severity detection output
-4. PDF export preview
-
----
-
-## 🔗 GitHub Repository
-[Insert your GitHub repository link here]
-
----
-
-## 📚 References
-- Esteva A. et al., 2017 — Dermatologist-level classification of skin cancer.  
-- Topol EJ, 2019 — High-performance medicine: The convergence of human and AI.  
-- Gupta R. & Kumar D., 2025 — AI-Driven Chatbots: Bridging the Gap between Patients and Healthcare Providers.  
-- Shickel B. et al., 2018 — Deep EHR: Deep learning on electronic health records for prediction and triage.
-
----
 © 2025 MedAssist | Developed by Mrinali Charhate & Jiana Elenza Philip
